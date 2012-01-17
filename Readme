@@ -1,0 +1,19 @@
+Kata source: http://codingdojo.org/cgi-bin/wiki.pl?KataRange
+
+The initial commit to this repo represents my attempt to solve this kata using TDD with a 30 minute time limit. I was given 5 minutes to review the kata description prior to starting.
+
+The goal is to accept a string representing a numeric range that may have an inclusive or exclusive start and end range value. The kata was used to practice TDD, so testing was part of the development effort.
+
+In the 30 minute period I was able to complete:
+
+  - Input validation
+  - Sequence (GetAllPoints)
+  - ContainsRange (named Contains)
+  - Equality check
+
+Due to time constraints I didn't complete the following functionality:
+
+  - Contains (checking if individual numbers existed in a range)
+  - Overlaps
+
+Enjoy!
