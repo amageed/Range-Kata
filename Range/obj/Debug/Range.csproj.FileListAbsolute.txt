@@ -1,0 +1,6 @@
+C:\Working\Katas\Range\2012-01-04\Range\Range\obj\Debug\ResolveAssemblyReference.cache
+C:\Working\Katas\Range\2012-01-04\Range\Range\bin\Debug\Range.dll
+C:\Working\Katas\Range\2012-01-04\Range\Range\bin\Debug\Range.pdb
+C:\Working\Katas\Range\2012-01-04\Range\Range\bin\Debug\nunit.framework.xml
+C:\Working\Katas\Range\2012-01-04\Range\Range\obj\Debug\Range.dll
+C:\Working\Katas\Range\2012-01-04\Range\Range\obj\Debug\Range.pdb
