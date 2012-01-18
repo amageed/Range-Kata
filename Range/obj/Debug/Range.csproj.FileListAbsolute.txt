@@ -4,3 +4,12 @@ C:\Working\Katas\Range\2012-01-04\Range\Range\bin\Debug\Range.pdb
 C:\Working\Katas\Range\2012-01-04\Range\Range\bin\Debug\nunit.framework.xml
 C:\Working\Katas\Range\2012-01-04\Range\Range\obj\Debug\Range.dll
 C:\Working\Katas\Range\2012-01-04\Range\Range\obj\Debug\Range.pdb
+C:\Users\Ahmad\Documents\Visual Studio 2010\Projects\Range-Kata\Range\bin\Debug\Range.dll
+C:\Users\Ahmad\Documents\Visual Studio 2010\Projects\Range-Kata\Range\bin\Debug\Range.pdb
+C:\Users\Ahmad\Documents\Visual Studio 2010\Projects\Range-Kata\Range\bin\Debug\nunit.framework.dll
+C:\Users\Ahmad\Documents\Visual Studio 2010\Projects\Range-Kata\Range\bin\Debug\nunit.mocks.dll
+C:\Users\Ahmad\Documents\Visual Studio 2010\Projects\Range-Kata\Range\bin\Debug\pnunit.framework.dll
+C:\Users\Ahmad\Documents\Visual Studio 2010\Projects\Range-Kata\Range\bin\Debug\nunit.framework.xml
+C:\Users\Ahmad\Documents\Visual Studio 2010\Projects\Range-Kata\Range\obj\Debug\Range.csprojResolveAssemblyReference.cache
+C:\Users\Ahmad\Documents\Visual Studio 2010\Projects\Range-Kata\Range\obj\Debug\Range.dll
+C:\Users\Ahmad\Documents\Visual Studio 2010\Projects\Range-Kata\Range\obj\Debug\Range.pdb
